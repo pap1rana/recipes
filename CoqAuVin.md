@@ -1,4 +1,5 @@
 # Coq au Vin
+
 ### **Sastojci:**  
 - 70g slanine, isečene na kockice 2 bataka i 2 karabataka od petla, sa kostima i kožom (ako su manji petlovi, ostaviti i file)  
 - So i sveže mleveni crni biber, po ukusu  
