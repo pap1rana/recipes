@@ -11,4 +11,6 @@ Toplu vodu pomešati sa kvascem. Pomešati brašno i so, pa dodavati postepeno u
 
 Peći oko 20/30 minuta, temperatura hleba mora da bude 90C (koristiti termometar). 
 
-Kada je gotov, premazati sa malo maslinovog ulja, uviti u krpu, i služiti kada se malo ohladi. 
+Kada je gotov, premazati sa malo maslinovog ulja, uviti u krpu, i služiti kada se malo ohladi.
+
+![WhiteBread](slike/WhiteBread.jpg)
